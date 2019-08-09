@@ -28,4 +28,11 @@
     - 면적구하는 기능
  - 인터페이스 적용
  - 결과(선, 삼각형, 사각형)를 출력한다.
+<<<<<<< HEAD
  - UI를 그려야 한다.
+=======
+ - UI를 그려야 한다.
+
+## 우아한테크코스 코드리뷰
+* [온라인 코드 리뷰 과정](https://github.com/woowacourse/woowacourse-docs/blob/master/maincourse/README.md)
+>>>>>>> c91f0ce... [좌표계산기] 이바 미션 제출합니다. (#23)
